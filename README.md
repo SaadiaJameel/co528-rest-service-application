@@ -1,1 +1,2 @@
-#### co528-rest-service-application
+### REST service application using Ballerina
+
