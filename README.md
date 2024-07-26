@@ -18,7 +18,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Start up an http server to run the index.html file. In ython it can be done using the command `python -m http.server`
 
-&nbsp;&nbsp;&nbsp;&nbsp;Paste the url `http://localhost:8000/index.html` on your favourite browser to try out the application. 
+&nbsp;&nbsp;&nbsp;&nbsp;Paste the url `http://localhost:8000/index.html` on your favourite browser to try out the application. The local port may change (may not be 8000), check the command line after rendering the python server command to see which what port it is using.
    
 
 
