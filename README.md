@@ -4,7 +4,7 @@
 
 Clone this git respository and cd into the folder that has the Dockerfile. Run the following commands on the command line to get the services listening on local 9090.
 
-&nbsp&nbsp&nbsp&nbspBuild the docker image bu running `docker build -t my-app .`
+&nbsp;&nbsp;&nbsp;&nbsp;Build the docker image bu running `docker build -t my-app .`
 
 &nbsp&nbsp&nbsp&nbspRun the docker container by executing `docker run -d -p 9090:9090 my-app`
 
