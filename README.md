@@ -12,5 +12,8 @@
 
 2. If the service app is up and running you can test the REST service using postman using the following API calls.
 
+   The base path to the api calls is `http://localhost:9090/social-media/users`
+   
+
 
 
