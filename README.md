@@ -4,7 +4,7 @@
 
 #### Clone this git respository and cd into the folder that has the Dockerfile. Run the following commands on the command line to get the services listening on local 9090.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Build the docker image bu running `docker build -t my-app .`
+&nbsp;&nbsp;&nbsp;&nbsp;Build the docker image bu running `docker build -t my-app`
 
 &nbsp;&nbsp;&nbsp;&nbsp;Run the docker container by executing `docker run -d -p 9090:9090 my-app`
 
@@ -16,7 +16,7 @@
 
 #### To run the frontend built using the REST service. The REST service must also be listening on port 9090 for requests. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Start up an http server to run the index.html file. In ython it can be done using the command `python -m http.server`.
+&nbsp;&nbsp;&nbsp;&nbsp;Start up an http server to run the index.html file. In ython it can be done using the command `python -m http.server`
 
 &nbsp;&nbsp;&nbsp;&nbsp;Paste the url `http://localhost:8000/index.html` on your favourite browser to try out the application. 
    
